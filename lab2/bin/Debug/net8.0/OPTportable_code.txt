@@ -1,0 +1,4 @@
+mul <id,4> <id,2> <12>
+sub <id,5> <-5> <id,3>
+i2f <id,6> <id,5>
+mul <id,5> <id,4> <id,6>
