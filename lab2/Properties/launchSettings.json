@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab2": {
+      "commandName": "Project",
+      "commandLineArgs": "gen3 input.txt tokens.txt symbol.txt \r\n"
+    }
+  }
+}
